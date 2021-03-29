@@ -1,0 +1,17 @@
+file_type = {
+	"GNU C++17": ".cpp",
+	"GNU C++17 (64)": ".cpp",
+	"GNU C++14": ".cpp",
+	"GNU C++": ".cpp",
+	"GNU C11": ".c",
+  ".NET Core C#": ".cs",
+  "Mono C#": ".cs",
+	"Java 8": ".java",
+	"Java 11": ".java",
+	"Python 3": ".py",
+	"Python 2": ".py",
+	"PyPy 3": ".py",
+	"PyPy 2": ".py",
+	"Delphi": ".dfm",
+	"Text": ".txt",
+}

@@ -1,0 +1,4 @@
+/code/*
+code_list.json
+__pycache__
+*.ipynb

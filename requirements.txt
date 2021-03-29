@@ -1,0 +1,2 @@
+beautifulsoup4==4.6.3
+browser-cookie3==0.12.0
